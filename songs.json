@@ -1,0 +1,11 @@
+{
+    "songs": [
+      { "name": "Song 1", "src": "song11.mp3" },
+      { "name": "Song 2", "src": "song12.mp3" },
+      { "name": "Song 3", "src": "song13.mp3" },
+      { "name": "Song 4", "src": "song14.mp3" },
+      { "name": "Song 5", "src": "song15.mp3" },
+      { "name": "Song 6", "src": "https://youtu.be/Jn5hsfbhWx4?si=MAEjItBsIv4MqUo-" }
+
+    ]
+  }
